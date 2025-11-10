@@ -8,12 +8,15 @@ If you have uBlock Origin installed, click [this link](https://subscribe.adblock
 # Criteria
 Creator:
 - 1/3 or more of their mods use ai generated content, criteria as below
+<br>
 Icon:
 - Icon is AI generated
 - Provide reasons for such assumption if submitting an issue/pr
+<br>
 Description:
 - Clearly an AI generated description
 - Signs of AI such as formatting, wordslop, etc
+<br>
 Code:
 - AI comments, CLAUDE folder, etc
 - Provide snippets and links to why you think it is AI
