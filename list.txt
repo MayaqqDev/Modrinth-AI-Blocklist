@@ -1,0 +1,10 @@
+! Title: Modrinth AI Blocklist
+! Description: A blocklist for mods/creators on modrinth utilizing large amount of ai for their icons, descriptions and or code.
+! Homepage: https://github.com/MayaqqDev/Modrinth-AI-Blocklist
+!
+! Issues: https://github.com/MayaqqDev/Modrinth-AI-Blocklist/issues
+! PRs: https://github.com/MayaqqDev/Modrinth-AI-Blocklist/pulls
+! Feel free to fork and submit pr's if you find more sites
+
+! Icons
+modrinth.com##.title-link:has-text(ChindeaYTB):upward(3)
