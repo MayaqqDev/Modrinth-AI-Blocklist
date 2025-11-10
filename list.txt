@@ -8,3 +8,10 @@
 
 ! Icons
 modrinth.com##.title-link:has-text(ChindeaYTB):upward(3)
+modrinth.com##.title-link:has-text(GalaxyHells):upward(3)
+modrinth.com##.title-link:has-text(mkram17):upward(3)
+modrinth.com##.title-link:has-text(LeoTheClasher):upward(3)
+modrinth.com##.title-link:has-text(Gawki):upward(3)
+modrinth.com##.title-link:has-text(vaclavak):upward(3)
+modrinth.com##.title-link:has-text(Medua):upward(3)
+modrinth.com##.title-link:has-text(kr3mil):upward(3)
