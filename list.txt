@@ -21,3 +21,25 @@ modrinth.com##.title-link:has-text(Decart):upward(3)
 modrinth.com##.title-link:has-text(MafuuuX):upward(3)
 modrinth.com##.title-link:has-text(baarilliantai):upward(3)
 modrinth.com##.title-link:has-text(Winlyps):upward(3)
+modrinth.com##.title-link:has-text(Emil_the_sleeper):upward(3)
+modrinth.com##.title-link:has-text(baarilliantai):upward(3)
+modrinth.com##.title-link:has-text(gnustellah):upward(3)
+modrinth.com##.title-link:has-text(LukeMCPE):upward(3)
+modrinth.com##.title-link:has-text(mccmcaozr):upward(3)
+modrinth.com##.title-link:has-text(666daji):upward(3)
+modrinth.com##.title-link:has-text(DMK):upward(3)
+modrinth.com##.title-link:has-text(TheMartinfer22):upward(3)
+modrinth.com##.title-link:has-text(ilmenis):upward(3)
+modrinth.com##.title-link:has-text(blackd):upward(3)
+modrinth.com##.title-link:has-text(Pankraz01):upward(3)
+modrinth.com##.title-link:has-text(akar1881):upward(3)
+modrinth.com##.title-link:has-text(Rinity9801):upward(3)
+modrinth.com##.title-link:has-text(yourboykyle):upward(3)
+
+! Adds ChatBot ingame
+modrinth.com##.title-link:has-text(block_nate):upward(3)
+modrinth.com##.title-link:has-text(Goodbird):upward(3)
+
+
+! Code
+modrinth.com##.title-link:has-text(SuperSeth8):upward(3)
