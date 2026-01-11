@@ -6,40 +6,68 @@
 ! PRs: https://github.com/MayaqqDev/Modrinth-AI-Blocklist/pulls
 ! Feel free to fork and submit pr's if you find more sites
 
-! Icons
+! Type: User, Reason: Icon, Name: ChindeaYTB
 modrinth.com##.title-link:has-text(ChindeaYTB):upward(3)
+! Type: User, Reason: Icon, Name: GalaxyHells
 modrinth.com##.title-link:has-text(GalaxyHells):upward(3)
+! Type: User, Reason: Icon, Name: mkram17
 modrinth.com##.title-link:has-text(mkram17):upward(3)
+! Type: User, Reason: Icon, Name: LeoTheClasher
 modrinth.com##.title-link:has-text(LeoTheClasher):upward(3)
+! Type: User, Reason: Icon, Name: Gawki
 modrinth.com##.title-link:has-text(Gawki):upward(3)
+! Type: User, Reason: Icon, Name: vaclavak
 modrinth.com##.title-link:has-text(vaclavak):upward(3)
+! Type: User, Reason: Icon, Name: Medua
 modrinth.com##.title-link:has-text(Medua):upward(3)
+! Type: User, Reason: Icon, Name: kr3mil
 modrinth.com##.title-link:has-text(kr3mil):upward(3)
+! Type: User, Reason: Icon, Name: gaberd
 modrinth.com##.title-link:has-text(gaberd):upward(3)
+! Type: User, Reason: Icon, Name: destroyaa
 modrinth.com##.title-link:has-text(destroyaa):upward(3)
+! Type: User, Reason: Icon, Name: Decart
 modrinth.com##.title-link:has-text(Decart):upward(3)
+! Type: User, Reason: Icon, Name: MafuuuX
 modrinth.com##.title-link:has-text(MafuuuX):upward(3)
+! Type: User, Reason: Icon, Name: baarilliantai
 modrinth.com##.title-link:has-text(baarilliantai):upward(3)
+! Type: User, Reason: Icon, Name: Winlyps
 modrinth.com##.title-link:has-text(Winlyps):upward(3)
+! Type: User, Reason: Icon, Name: Emil_the_sleeper
 modrinth.com##.title-link:has-text(Emil_the_sleeper):upward(3)
+! Type: User, Reason: Icon, Name: baarilliantai
 modrinth.com##.title-link:has-text(baarilliantai):upward(3)
+! Type: User, Reason: Icon, Name: gnustellah
 modrinth.com##.title-link:has-text(gnustellah):upward(3)
+! Type: User, Reason: Icon, Name: LukeMCPE
 modrinth.com##.title-link:has-text(LukeMCPE):upward(3)
+! Type: User, Reason: Icon, Name: mccmcaozr
 modrinth.com##.title-link:has-text(mccmcaozr):upward(3)
+! Type: User, Reason: Icon, Name: 666daji
 modrinth.com##.title-link:has-text(666daji):upward(3)
+! Type: User, Reason: Icon, Name: DMK
 modrinth.com##.title-link:has-text(DMK):upward(3)
+! Type: User, Reason: Icon, Name: TheMartinfer22
 modrinth.com##.title-link:has-text(TheMartinfer22):upward(3)
+! Type: User, Reason: Icon, Name: ilmenis
 modrinth.com##.title-link:has-text(ilmenis):upward(3)
+! Type: User, Reason: Icon, Name: blackd
 modrinth.com##.title-link:has-text(blackd):upward(3)
+! Type: User, Reason: Icon, Name: Pankraz01
 modrinth.com##.title-link:has-text(Pankraz01):upward(3)
+! Type: User, Reason: Icon, Name: akar1881
 modrinth.com##.title-link:has-text(akar1881):upward(3)
+! Type: User, Reason: Icon, Name: Rinity9801
 modrinth.com##.title-link:has-text(Rinity9801):upward(3)
+! Type: User, Reason: Icon, Name: yourboykyle
 modrinth.com##.title-link:has-text(yourboykyle):upward(3)
 
-! Adds ChatBot ingame
+! Type: User, Reason: Adds ChatBot ingame, Name: block_nate
 modrinth.com##.title-link:has-text(block_nate):upward(3)
+! Type: User, Reason: Adds ChatBot ingame, Name: Goodbird
 modrinth.com##.title-link:has-text(Goodbird):upward(3)
 
 
-! Code
+! Type: User, Reason: Code, Name: SuperSeth8
 modrinth.com##.title-link:has-text(SuperSeth8):upward(3)
