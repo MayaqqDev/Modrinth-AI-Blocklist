@@ -62,6 +62,8 @@ modrinth.com##.title-link:has-text(akar1881):upward(3)
 modrinth.com##.title-link:has-text(Rinity9801):upward(3)
 ! Type: User, Reason: Icon, Name: yourboykyle
 modrinth.com##.title-link:has-text(yourboykyle):upward(3)
+! Type: User, Reason: Icon, Name: Strange-Quark
+modrinth.com##.title-link:has-text(Strange-Quark):upward(3)
 
 ! Type: User, Reason: Adds ChatBot ingame, Name: block_nate
 modrinth.com##.title-link:has-text(block_nate):upward(3)
